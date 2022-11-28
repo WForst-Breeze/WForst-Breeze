@@ -18,8 +18,8 @@ High school students. I'm not really much of a programmer. It's just a hobby. No
 - 🕹 添加我的 Steam 好友 | Be my friend on Steam
 - 🤔 还有更多…… | And more...
 ### 现在正在做的事 What you're doing right now?
-- Minecraft Fabric/Forge 模组 WFB的简单命令 | Mod for Minecraft Fabric/Forge: WFB's Easy Commands
-- PCL2 协助编辑 | The contributor of PCL2
+- 🎲 Minecraft Fabric/Forge 模组 WFB的简单命令 | Mod for Minecraft Fabric/Forge: WFB's Easy Commands
+- 🛠 PCL2 协助编辑 | The contributor of PCL2
 
 ### 祝您生活愉快 Have a nice day :)
 <!---
