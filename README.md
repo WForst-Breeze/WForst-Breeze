@@ -1,7 +1,8 @@
 ## 👋 银河初现，宇宙回旋，很荣幸我们在此相遇。  
 **Oh, the Milky Way is emerging and the universe is spinning, we are honored to meet here.**
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wforst-Breeze&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=WForst-Breeze&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="WForst Breeze's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WForst-Breeze&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 我是 **WForst Breeze** ，一个平凡得不能再平凡的中国学生。  
 I'm **WForst Breeze**, an ordinary Chinese student.
@@ -20,8 +21,6 @@ High school students. I'm not really much of a programmer. It's just a hobby. No
 ### 现在正在做的事 What you're doing right now?
 - 🎲 Minecraft Fabric/Forge 模组 WFB的简单命令 | Mod for Minecraft Fabric/Forge: WFB's Easy Commands
 - 🛠 PCL2 协助编辑 | The Collaborator of PCL2  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WForst-Breeze&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### ⭐ 祝您生活愉快 Have a nice day :)
 <!---
