@@ -9,6 +9,8 @@ README Stats
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=WForst-Breeze&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="WForst Breeze's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WForst-Breeze&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
+↑ 这玩意坏了，请见[此处](https://github.com/anuraghazra/github-readme-stats/issues/2380#issuecomment-1379909529)
+
 我是 **WForst Breeze** ，一个平凡得不能再平凡的中国学生。  
 I'm **WForst Breeze**, an ordinary Chinese student.
 
