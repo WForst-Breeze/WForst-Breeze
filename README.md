@@ -31,3 +31,4 @@ High school students. I'm not really much of a programmer. It's just a hobby. No
 
 
 ### ⭐ 祝您生活愉快 Have a nice day :)
+[![Page Views Count](https://badges.toozhao.com/badges/01GPHXFCCQ0WANPJ2B5Q8MGJG5/green.svg)](https://badges.toozhao.com/stats/01GPHXFCCQ0WANPJ2B5Q8MGJG5 "Get your own page views count badge on badges.toozhao.com")
