@@ -4,7 +4,7 @@
 ## 👋 银河初现，宇宙回旋，很荣幸我们在此相遇。  
 **Oh, the Milky Way is emerging and the universe is spinning, we are honored to meet here.**
 <!---
-README Stats
+README Stats 鬼知道为什么这破玩意老是坏，蒸的服辣！！
 --->
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=WForst-Breeze&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="WForst Breeze's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WForst-Breeze&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
@@ -33,4 +33,7 @@ High school students. I'm not really much of a programmer. It's just a hobby. No
 ### ⭐ 祝您生活愉快 Have a nice day :)
 (自2023/1/12)
 
+<!---
+自2023.1.12开始统计的页面访问数量
+--->
 ![Page Views Count](https://badges.toozhao.com/badges/01GPHXFCCQ0WANPJ2B5Q8MGJG5/green.svg)
