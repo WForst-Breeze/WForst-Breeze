@@ -14,7 +14,7 @@ I'm **WForst Breeze**, an ordinary Chinese student.
 
 ---
 
-#### 介绍一下你自己 Introduction
+#### 介绍自己 Introduction
 只是一个高一学生而已啦，东北滴（现在住在天津，在北京长大）！其实不怎么会写程序，只是一个爱好而已。一般情况下不会阴阳怪气啊啥的，有什么问题，只要在我能力范围之内的，一定会尽力去帮助的！  
 High school students. I'm not really much of a programmer. It's just a hobby. Normally I wouldn't say unkind things. If you have any problems, as long as within the scope of my ability, will try to help!
 #### 你或许可以…… Perhaps...
