@@ -22,6 +22,7 @@ High school students. I'm not really much of a programmer. It's just a hobby. No
 - 🤔 还有更多…… | And more...
 #### 现在正在做的事 What I'm doing right now?
 - 🎲 Minecraft Fabric/Forge 模组 WFB的简单命令 | Mod for Minecraft Fabric/Forge: WFB's Easy Commands
+- 📦 Minecraft Fabric 整合包 Frodium Modpack | Modpack for Minecraft Fabric: Frodium Modpack
 - 🛠 PCL2 协助编辑 | The Collaborator of PCL2  
 <!---自2023.1.12开始统计的页面访问数量--->
 ![Page Views Count](https://badges.toozhao.com/badges/01GPHXFCCQ0WANPJ2B5Q8MGJG5/blue.svg)
