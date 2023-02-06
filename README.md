@@ -23,12 +23,15 @@ High school students. I'm not really much of a programmer. It's just a hobby. No
 #### 现在正在做的事 What I'm doing right now?
 - 🎲 Minecraft Fabric/Forge 模组 WFB的简单命令 | Mod for Minecraft Fabric/Forge: WFB's Easy Commands
 - 🛠 PCL2 协助编辑 | The Collaborator of PCL2  
+<!---自2023.1.12开始统计的页面访问数量--->
+![Page Views Count](https://badges.toozhao.com/badges/01GPHXFCCQ0WANPJ2B5Q8MGJG5/blue.svg)
 
 ---
 
 
 ### ⭐ 祝您生活愉快 Have a nice day :)
-(自2023/1/12)
+<div align="center">
 
-<!---自2023.1.12开始统计的页面访问数量--->
-![Page Views Count](https://badges.toozhao.com/badges/01GPHXFCCQ0WANPJ2B5Q8MGJG5/green.svg)
+<!---相关链接--->
+[![image](https://img.shields.io/badge/-BiliBili-fb7299?style=for-the-badge)](https://space.bilibili.com/506713078)[![iamge](https://img.shields.io/badge/-%E7%88%B1%E5%8F%91%E7%94%B5-946ce6?style=for-the-badge)](https://afdian.net/a/Bailey_Z)[![image](https://img.shields.io/badge/-Twitter-1D9BF0?style=for-the-badge)](https://twitter.com/RbreezeQ)[![image](https://img.shields.io/badge/-Wikipedia-f4f4f4?style=for-the-badge)](https://zh.wikipedia.org/wiki/User:WForstQing)[![image](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge)](https://www.buymeacoffee.com/WForstB)
+</div>
