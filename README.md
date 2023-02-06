@@ -12,8 +12,8 @@ I'm **WForst Breeze**, an ordinary Chinese student.
 ---
 
 #### 介绍自己 Introduction
-只是一个高一学生而已啦，东北滴（现在住在天津，在北京长大）！其实不怎么会写程序，只是一个爱好而已。一般情况下不会阴阳怪气啊啥的，有什么问题，只要在我能力范围之内的，一定会尽力去帮助的！  
-High school students. I'm not really much of a programmer. It's just a hobby. Normally I wouldn't say unkind things. If you have any problems, as long as within the scope of my ability, will try to help!
+- [x] 你好，别来无恙呀！我是 WForst Breeze，你可以直接叫我 SC。我是东北滴（现在住在天津，在北京长大）！其实不怎么会写程序，只是一个爱好而已。一般情况下不会阴阳怪气啊啥的，有什么问题，只要在我能力范围之内的，一定会尽力去帮助的！  
+- [ ] Hey there! I'm WForst Breeze, you can call me SC. I'm not really much of a programmer. It's just a hobby. Normally I wouldn't say unkind things. If you have any problems, as long as within the scope of my ability, will try to help!
 #### 你或许可以…… Perhaps...
 - 🤩 看一看我的作品 | Take a look at my work
 - 💬 与我互通邮件 | Exchange emails with me
@@ -24,15 +24,13 @@ High school students. I'm not really much of a programmer. It's just a hobby. No
 - 🎲 Minecraft Fabric/Forge 模组 WFB的简单命令 | Mod for Minecraft Fabric/Forge: WFB's Easy Commands
 - 📦 Minecraft Fabric 整合包 Frodium Modpack | Modpack for Minecraft Fabric: Frodium Modpack
 - 🛠 PCL2 协助编辑 | The Collaborator of PCL2  
-<!---自2023.1.12开始统计的页面访问数量--->
-![Page Views Count](https://badges.toozhao.com/badges/01GPHXFCCQ0WANPJ2B5Q8MGJG5/blue.svg)
-
----
-
 
 ### ⭐ 祝您生活愉快 Have a nice day :)
+<!---自2023.1.12开始统计的页面访问数量--->
+![Page Views Count](https://badges.toozhao.com/badges/01GPHXFCCQ0WANPJ2B5Q8MGJG5/blue.svg)
 <div align="center">
 
+## 🔎 野生 SC 出没地点 🔍
 <!---相关链接--->
 [![image](https://img.shields.io/badge/-BiliBili-fb7299?style=for-the-badge)](https://space.bilibili.com/506713078)[![iamge](https://img.shields.io/badge/-%E7%88%B1%E5%8F%91%E7%94%B5-946ce6?style=for-the-badge)](https://afdian.net/a/Bailey_Z)[![image](https://img.shields.io/badge/-Twitter-1D9BF0?style=for-the-badge)](https://twitter.com/RbreezeQ)[![image](https://img.shields.io/badge/-Wikipedia-f4f4f4?style=for-the-badge)](https://zh.wikipedia.org/wiki/User:WForstQing)[![image](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge)](https://www.buymeacoffee.com/WForstB)
 </div>
