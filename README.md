@@ -32,5 +32,5 @@ I'm **WForst Breeze**, an ordinary Chinese student.
 
 ## 🔎 野生 SC 出没地点 🔍
 <!---相关链接--->
-[![image](https://img.shields.io/badge/-BiliBili-fb7299?style=for-the-badge)](https://space.bilibili.com/506713078)[![iamge](https://img.shields.io/badge/-%E7%88%B1%E5%8F%91%E7%94%B5-946ce6?style=for-the-badge)](https://afdian.net/a/Bailey_Z)[![image](https://img.shields.io/badge/-Twitter-1D9BF0?style=for-the-badge)](https://twitter.com/RbreezeQ)[![image](https://img.shields.io/badge/-Wikipedia-f4f4f4?style=for-the-badge)](https://zh.wikipedia.org/wiki/User:WForstQing)[![image](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge)](https://www.buymeacoffee.com/WForstB)
+[![image](https://img.shields.io/badge/-BiliBili-fb7299?style=for-the-badge)](https://space.bilibili.com/506713078)[![iamge](https://img.shields.io/badge/-AFDian-946ce6?style=for-the-badge)](https://afdian.net/a/Bailey_Z)[![image](https://img.shields.io/badge/-Twitter-1D9BF0?style=for-the-badge)](https://twitter.com/RbreezeQ)[![image](https://img.shields.io/badge/-Wikipedia-f4f4f4?style=for-the-badge)](https://zh.wikipedia.org/wiki/User:WForstQing)[![image](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge)](https://www.buymeacoffee.com/WForstB)
 </div>
