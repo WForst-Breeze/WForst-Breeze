@@ -27,10 +27,12 @@ I'm **WForst Breeze**, an ordinary Chinese student.
 
 ### ⭐ 祝您生活愉快 Have a nice day :)
 <!---自2023.1.12开始统计的页面访问数量--->
-![Page Views Count](https://badges.toozhao.com/badges/01GPHXFCCQ0WANPJ2B5Q8MGJG5/blue.svg)
+<!---已弃用![Page Views Count](https://badges.toozhao.com/badges/01GPHXFCCQ0WANPJ2B5Q8MGJG5/blue.svg)  --->
+
 <div align="center">
 
 ## 🔎 野生 SC 出没地点 🔍
 <!---相关链接--->
-[![image](https://img.shields.io/badge/-BiliBili-fb7299?style=for-the-badge)](https://space.bilibili.com/506713078)[![iamge](https://img.shields.io/badge/-AFDian-946ce6?style=for-the-badge)](https://afdian.net/a/Bailey_Z)[![image](https://img.shields.io/badge/-Twitter-1D9BF0?style=for-the-badge)](https://twitter.com/RbreezeQ)[![image](https://img.shields.io/badge/-Wikipedia-f4f4f4?style=for-the-badge)](https://zh.wikipedia.org/wiki/User:WForstQing)[![image](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge)](https://www.buymeacoffee.com/WForstB)
+[![image](https://img.shields.io/badge/-BiliBili-fb7299?style=for-the-badge)](https://space.bilibili.com/506713078)[![iamge](https://img.shields.io/badge/-AFDian-946ce6?style=for-the-badge)](https://afdian.net/a/Bailey_Z)[![image](https://img.shields.io/badge/-Twitter-1D9BF0?style=for-the-badge)](https://twitter.com/RbreezeQ)[![image](https://img.shields.io/badge/-Wikipedia-f4f4f4?style=for-the-badge)](https://zh.wikipedia.org/wiki/User:WForstQing)[![image](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge)](https://www.buymeacoffee.com/WForstB)  
+<img src="https://profile-counter.glitch.me/WForst_Breeze/count.svg" alt="icon" width="170px">
 </div>
