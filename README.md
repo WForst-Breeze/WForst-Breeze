@@ -1,8 +1,8 @@
-<!---此为WForst-Breeze的profile的readme.md，将会展示在WForst-Breeze的个人主页上。--->
+  <!---此为WForst-Breeze的profile的readme.md，将会展示在WForst-Breeze的个人主页上。--->
 ## 👋 银河初现，宇宙回旋，很荣幸我们在此相遇。  
-**Oh, the Milky Way is emerging and the universe is spinning, we are honored to meet here.**
-<!---README Stats--->
-<!---鬼知道为什么这破玩意老是坏，蒸的服辣！！--->
+**Oh, The night awakens from its slumber, and the stars traverse the universe. It's my honor to meet you here.**
+  <!---README Stats--->
+  <!---鬼知道为什么这破玩意老是坏，蒸的服辣！！--->
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=WForst-Breeze&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="WForst Breeze's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WForst-Breeze&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
@@ -26,13 +26,14 @@ I'm **WForst Breeze**, an ordinary Chinese student.
 - 🛠 PCL2 协助编辑 | The Collaborator of PCL2  
 
 ### ⭐ 祝您生活愉快 Have a nice day :)
-<!---自2023.1.12开始统计的页面访问数量--->
-<!---已弃用![Page Views Count](https://badges.toozhao.com/badges/01GPHXFCCQ0WANPJ2B5Q8MGJG5/blue.svg)  --->
+  <!---自2023.1.12开始统计的页面访问数量--->
+  <!---已弃用![Page Views Count](https://badges.toozhao.com/badges/01GPHXFCCQ0WANPJ2B5Q8MGJG5/blue.svg)  --->
 
 <div align="center">
 
 ## 🔎 野生 SC 出没地点 🔍
-<!---相关链接--->
+  <!---相关链接--->
 [![image](https://img.shields.io/badge/-BiliBili-fb7299?style=for-the-badge)](https://space.bilibili.com/506713078)[![iamge](https://img.shields.io/badge/-AFDian-946ce6?style=for-the-badge)](https://afdian.net/a/Bailey_Z)[![image](https://img.shields.io/badge/-Twitter-1D9BF0?style=for-the-badge)](https://twitter.com/RbreezeQ)[![image](https://img.shields.io/badge/-Wikipedia-f4f4f4?style=for-the-badge)](https://zh.wikipedia.org/wiki/User:WForstQing)[![image](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge)](https://www.buymeacoffee.com/WForstB)  
-您是第 <img src="https://profile-counter.glitch.me/WForst_Breeze/count.svg" alt="icon" width="130px"> 名到访者
+  <!---访问次数统计--->
+**您是第** <img src="https://profile-counter.glitch.me/WForst_Breeze/count.svg" alt="icon" width="130px"> **名到访者**
 </div>
