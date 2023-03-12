@@ -21,7 +21,7 @@ I'm **WForst Breeze**, an ordinary Chinese student.
 - 🕹 添加我的 Steam 好友 | Be my friend on Steam
 - 🤔 还有更多…… | And more...
 #### 现在正在做的事 What I'm doing right now?
-- 🎲 Minecraft Fabric/Forge 模组 WFB的简单命令 | Mod for Minecraft Fabric/Forge: WFB's Easy Commands
+<!----此项目已放弃 🎲 Minecraft Fabric/Forge 模组 WFB的简单命令 | Mod for Minecraft Fabric/Forge: WFB's Easy Commands --->
 - 📦 Minecraft Fabric 整合包 Frodium Modpack | Modpack for Minecraft Fabric: Frodium Modpack
 - 🛠 PCL2 协助编辑 | The Collaborator of PCL2  
 
