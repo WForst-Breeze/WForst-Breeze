@@ -46,3 +46,10 @@
   <!---访问次数统计--->
 **您是第** <img src="https://profile-counter.glitch.me/WForst_Breeze/count.svg?comment=哼啊啊啊啊啊啊啊啊啊啊啊啊" alt="icon" width="130px"> **位到访者**
 </div>
+
+<details>
+<summary>更多信息...</summary>
+
+![Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=WForst-Breeze&theme=github-compact&hide_border=true)
+![details](https://metrics.lecoq.io/WForst-Breeze?template=classic)
+</details>
