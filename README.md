@@ -30,6 +30,7 @@
 
 #### 现在正在做的事 What I'm doing right now?
   <!----此项目已放弃 🎲 Minecraft Fabric/Forge 模组 WFB的简单命令 | Mod for Minecraft Fabric/Forge: WFB's Easy Commands --->
+  <!----此项目筹划中 🎲 Minecraft Fabric/Forge/数据包 烦人的配方 | Minecraft Fabric mod/Forge mod/Datapacks: Annoying Recipes（Recipes+） --->
 - 📦 Minecraft Fabric 整合包 Frodium Modpack | Modpack for Minecraft Fabric: Frodium Modpack
 - 🛠 PCL2 协助编辑 | The Collaborator of PCL2  
 
