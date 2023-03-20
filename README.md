@@ -26,6 +26,7 @@
 - 💬 与我互通邮件 | Exchange emails with me
 - 🎮 和我玩 Minecraft | Play Minecraft with me
 - 🕹 添加我的 Steam 好友 | Be my friend on Steam
+- [❄ 和我谈谈心、聊聊天 | Talk to me](https://github.com/WForst-Breeze/WForst-Breeze/issues/new/choose)
 - 🤔 还有更多…… | And more...
 
 #### 现在正在做的事 What I'm doing right now?
