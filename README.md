@@ -53,5 +53,5 @@
 
   <!---这些统计信息我超爱！来自 https://metrics.lecoq.io/ ，不过可惜风格不统一，就先折叠了--->
 ![Metrics](https://metrics.lecoq.io/WForst-Breeze?template=classic&repositories.forks=true&reactions=1&achievements=1&traffic=1&discussions=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&reactions=false&reactions.limit=200&reactions.limit.issues=100&reactions.limit.discussions=100&reactions.limit.discussions.comments=100&reactions.days=0&reactions.display=absolute&discussions=false&discussions.categories=true&discussions.categories.limit=0&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&traffic=false&config.timezone=Asia%2FShanghai&config.display=large)
-![Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=WForst-Breeze&theme=github-compact&hide_border=true)
+![Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=WForst-Breeze&theme=github-light&hide_border=true&custom_title=WForst+Breeze's+Contribution+Graph)
 </details>
