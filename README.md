@@ -9,6 +9,11 @@
 
 同时，你也会看到我在这里发的牢骚。这里面大部分注释用处不大，图个乐，让自己开心而已啦~
   --->
+  
+<div align="center">
+  
+<img src="https://user-images.githubusercontent.com/110760354/227522829-070dc9a7-fffe-4d45-9e05-3d98532bb79c.png" alt="100discusions" width="750px">
+</div>
 
 ## 👋 银河初现，宇宙回旋，很荣幸我们在此相遇。  
 **Oh, The night awakens from its slumber, and the stars traverse the universe. It's my honor to meet you here.**
