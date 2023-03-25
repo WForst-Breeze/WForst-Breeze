@@ -9,12 +9,6 @@
 
 同时，你也会看到我在这里发的牢骚。这里面大部分注释用处不大，图个乐，让自己开心而已啦~
   --->
-  
-<div align="center">
-  
-<img src="https://user-images.githubusercontent.com/110760354/227522829-070dc9a7-fffe-4d45-9e05-3d98532bb79c.png" alt="100discusions" width="750px">
-</div>
-
 ## 👋 银河初现，宇宙回旋，很荣幸我们在此相遇。  
 **Oh, The night awakens from its slumber, and the stars traverse the universe. It's my honor to meet you here.**
   <!---README Stats--->
@@ -53,10 +47,14 @@
 **您是第** <img src="https://profile-counter.glitch.me/WForst_Breeze/count.svg?comment=哼啊啊啊啊啊啊啊啊啊啊啊啊" alt="icon" width="130px"> **位到访者**
 </div>
 
+
 <details>
 <summary>更多信息... What's more...</summary>
-
+  <div align="center">
+   
   <!---这些统计信息我超爱！来自 https://metrics.lecoq.io/ ，不过可惜风格不统一，就先折叠了--->
 ![Metrics](https://metrics.lecoq.io/WForst-Breeze?template=classic&repositories.forks=true&reactions=1&achievements=1&traffic=1&discussions=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&reactions=false&reactions.limit=200&reactions.limit.issues=100&reactions.limit.discussions=100&reactions.limit.discussions.comments=100&reactions.days=0&reactions.display=absolute&discussions=false&discussions.categories=true&discussions.categories.limit=0&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&traffic=false&config.timezone=Asia%2FShanghai&config.display=large)
 ![Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=WForst-Breeze&theme=github-light&hide_border=true&custom_title=WForst+Breeze's+Contribution+Graph)
+<img src="https://user-images.githubusercontent.com/110760354/227522829-070dc9a7-fffe-4d45-9e05-3d98532bb79c.png" alt="100discusions" width="750px">
+   </div>
 </details>
