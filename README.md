@@ -32,7 +32,7 @@
   <!----此项目已放弃 🎲 Minecraft Fabric/Forge 模组 WFB的简单命令 | Mod for Minecraft Fabric/Forge: WFB's Easy Commands --->
   <!----此项目筹划中 🎲 Minecraft Fabric/Forge/数据包 别了！烦人的配方 | Minecraft Fabric mod/Forge mod/Datapacks: No Annoying Recipes（Recipes+） --->
 - 📦 Minecraft Fabric 整合包 Frodium Modpack | Modpack for Minecraft Fabric: Frodium Modpack
-- 🛠 Minecraft Java 启动器 PCL2 社区协管 | The Collaborator of PCL2  
+- 🛠 Minecraft Java Edition 启动器 PCL2 社区协管 | The Collaborator of PCL2  
 
 ### ⭐ 祝您生活愉快 Have a nice day :)
   <!---自2023.1.12开始统计的页面访问数量--->
