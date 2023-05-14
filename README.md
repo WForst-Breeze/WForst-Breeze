@@ -21,7 +21,7 @@
 - [ ] Hey there! I'm WForst Breeze, you can call me SC. I'm not really much of a programmer. It's just a hobby. Normally I wouldn't say unkind things. If you have any problems, as long as within the scope of my ability, will try to help!
 
 #### 你或许可以…… Perhaps...
-- 🤩 看一看我的作品 | Take a look at my work
+- [🤩 看一看我的作品 | Take a look at my work](https://github.com/WForst-Breeze/WForst-Breeze/blob/main/Menu/README.md "查看导航")
 - 💬 与我互通邮件 | Exchange emails with me
 - 🎮 和我玩 Minecraft | Play Minecraft with me
 - 🕹 添加我的 Steam 好友 | Be my friend on Steam
