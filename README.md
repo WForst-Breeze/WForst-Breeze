@@ -34,10 +34,9 @@
 - 📦 Minecraft Fabric 整合包 Frodium Modpack | Modpack for Minecraft Fabric: Frodium Modpack
 - 🛠 Minecraft Java Edition 启动器 PCL2 社区协管 | The Collaborator of PCL2  
 
-### ⭐ 祝您生活愉快 Have a nice day :)
+###### 祝您生活愉快 Have a nice day :)
   <!---自2023.1.12开始统计的页面访问数量--->
   <!---已弃用![Page Views Count](https://badges.toozhao.com/badges/01GPHXFCCQ0WANPJ2B5Q8MGJG5/blue.svg)  --->
----
 <div align="center">
 
 ### 🔎 野生 SC 出没地点 🔍
