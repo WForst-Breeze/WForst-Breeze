@@ -56,6 +56,6 @@
 ![Metrics](https://metrics.lecoq.io/WForst-Breeze?template=classic&repositories.forks=true&reactions=1&achievements=1&traffic=1&discussions=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&reactions=false&reactions.limit=200&reactions.limit.issues=100&reactions.limit.discussions=100&reactions.limit.discussions.comments=100&reactions.days=0&reactions.display=absolute&discussions=false&discussions.categories=true&discussions.categories.limit=0&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&traffic=false&config.timezone=Asia%2FShanghai&config.display=large)
   <!--Update 20230606: 网站寄了-->
 ![Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=WForst-Breeze&theme=github-light&hide_border=true&custom_title=WForst+Breeze's+Contribution+Graph)
-<img src="https://user-images.githubusercontent.com/110760354/227522829-070dc9a7-fffe-4d45-9e05-3d98532bb79c.png" alt="100discusions" width="750px">
+<img src="https://github.com/WForst-Breeze/WForst-Breeze/assets/110760354/43680923-22b6-4995-bc1d-95482a9fbc43" alt="150discusions" width="750px">
    </div>
 </details>
