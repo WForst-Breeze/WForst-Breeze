@@ -2,7 +2,7 @@
 这里罗列了我创建的仓库和一些经常能看到我的身影的仓库。
 
 ### 活跃仓库
-- [Frodium Modpack](https://github.com/WForst-Breeze/Frodium-Modpack): 优雅的 1.19.3 优化美化整合包。
+- [Frodium Modpack](https://github.com/WForst-Breeze/Frodium-Modpack): 优雅的 1.20 优化美化整合包。
 - [No Annoying Recipes](https://github.com/WForst-Breeze/NoAnnoyingRecipes): 扩展原版合成表。
 - [Frodium Modpack Lite](https://github.com/Scandium-Studio/Frodium-Modpack-Lite): Frodium Modpack 的轻量级版本，仅保留优化和小部分功能美化。
 - [WForst-Breeze.github.io](https://github.com/WForst-Breeze/WForst-Breeze.github.io): 个人博客，发牢骚专用。
