@@ -20,6 +20,7 @@
 #### 现在正在做的事 What I'm doing right now?
 - 🖥 学习更多编程语言 | Learn more programming languages
 - 🀄 对无汉化的小众模组进行汉化 | Carry out Chinese translation for minority mods without Chinese translation
+- 🇫🇷 学习法语 | Apprendre le français
 
 ###### 祝您生活愉快 Have a nice day :)
   <!---自2023.1.12开始统计的页面访问数量--->
