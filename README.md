@@ -7,7 +7,7 @@
 
 #### 介绍自己 Introduction
 - [x] 你好，别来无恙呀！我是 WForst Breeze，中文名为风释清然SC，你可以直接叫我 SC 或者 WFB 等等等等你愿意的称呼！2025 年高考生，现在可能时间并不充裕 TwT 如果有什么问题我会尽力帮助的！
-- [ ] Hey there! I am WForst Breeze, you can simply call me SC or WFB, or whatever you like! I'll do my best to help with any questions!
+- [ ] Hey there! I am WForst Breeze, you can simply call me SC or WFB, or whatever you like! I am a student who is going to take the University Entrance Examination in 2025, and I may not have enough time now. I'll do my best to help with any questions!
 
 #### 你或许可以…… Perhaps...
 - [🤩 看一看我的作品 | Take a look at my work](https://github.com/WForst-Breeze/WForst-Breeze/blob/main/Menu/README.md "查看导航")
