@@ -1,26 +1,32 @@
-## 👋 银河初现，宇宙回旋，很荣幸我们在此相遇。  
-**Amidst galaxies' debut, the cosmos pirouettes, Fortunate are we, meeting under this celestial duet.**
+## ✨ 我们与千万人擦肩而过，却在熙熙攘攘的人群中，独为彼此驻足回眸。
+***We once passed by countless others, yet in the crowd, it was only for each other that we turned and looked back.***
   <!---README Stats--->
   <!---鬼知道为什么这破玩意老是坏，蒸的服辣！！--->
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=WForst-Breeze&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true" alt="WForst Breeze's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WForst-Breeze&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 #### 介绍自己 Introduction
-- [x] 你好，别来无恙呀！我是 WForst Breeze，中文名为风释清然SC，你可以直接叫我 SC 或者 WFB 等等等等你愿意的称呼！2025 年高考生，现在可能时间并不充裕 TwT 如果有什么问题我会尽力帮助的！
-- [ ] Hey there! I am WForst Breeze, you can simply call me SC or WFB, or whatever you like! I'll do my best to help with any questions!
 
-#### 你或许可以…… Perhaps...
-- [🤩 看一看我的作品 | Take a look at my work](https://github.com/WForst-Breeze/WForst-Breeze/blob/main/Menu/README.md "查看导航")
-- 💬 与我互通邮件 | Exchange emails with me
-- 🎮 和我玩 Minecraft | Play Minecraft with me
-- 🕹 添加我的 Steam 好友 | Be my friend on Steam
-- [❄ 和我谈谈心、聊聊天 | Talk to me](https://github.com/WForst-Breeze/WForst-Breeze/issues/new?assignees=WForst-Breeze&labels=%E6%9D%82%E8%B0%88&projects=&template=%E5%BF%83%E7%81%B5%E4%BA%A4%E6%B5%81.md&title=%F0%9F%92%AC+ "聊什么都可以哦，你想对我说的话、想分享的事、想问我的问题都可以在这里畅所欲言！我会一直等着你~")
-- 🤔 还有更多…… | And more...
+- 💬 你好，别来无恙呀！我是 风释清然SC，你可以叫我 WFB、SC 等等你愿意的称呼！  
+*Hi there! I'm WForst-Breeze, you can simply call me WFB, SC, or whatever you like!*
+
+- 🌏 我是一名高三学生，来自中国东北，现居住于天津市！  
+*I'm a senior high school student from Northeastern China, currently living in Tianjin!*
+
+- 🧝‍ 我的 MBTI 类型是 调停者 INFP-T，擅长观察人类并尽可能总结出人类恰当的社交方式。  
+*My MBTI type is Mediator (INFP-T). I'm here to observe human behavior so that I can summarize appropriate social interactions...*
+
+- 📰 我是中文母语者，同时可以阅读英文、法文，但是后者可能无法做到流畅阅读。  
+*I'm a native Chinese speaker, and I can read both English and French, though I might not be fully fluent in reading French.*
 
 #### 现在正在做的事 What I'm doing right now?
-- 🖥 学习更多编程语言 | Learn more programming languages
-- 🀄 对无汉化的小众模组进行汉化 | Carry out Chinese translation for minority mods without Chinese translation
-- 🇫🇷 学习法语 | Apprendre le français
+- ✏ 备战 2025 高考 | Preparing for the 2025 Gaokao.
+- 🖥 学习更多编程语言 | Learning more programming languages.
+- 🎭 组织管理 [PCL Community](https://github.com/PCL-Community) | Organizing and managing a Organization: [PCL Community](https://github.com/PCL-Community).
+- 🧱 为 [Enhanced Stonebricks](https://github.com/RS-WFB/Enhanced-Stonebricks) 模组提供灵感与美术支持 | Providing inspiration and artistic support for the mod: [Enhanced Stonebricks](https://github.com/RS-WFB/Enhanced-Stonebricks).
+- 🛠 担任 [PCL2](https://github.com/Hex-Dragon/PCL2) 主仓库社区协管 | Being collaborator in [PCL2](https://github.com/Hex-Dragon/PCL2) repo.
+- ⚙ 对无汉化的小众模组进行汉化 | Carry out Chinese translation for mods without Chinese translation.
+- 🇫🇷 学习法语 | Apprendre le français.
 
 ###### 祝您生活愉快 Have a nice day :)
   <!---自2023.1.12开始统计的页面访问数量--->
