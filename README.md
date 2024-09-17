@@ -23,7 +23,7 @@
 - ✏ 备战 2025 高考 | Preparing for the 2025 Gaokao.
 - 🖥 学习更多编程语言 | Learning more programming languages.
 - 🎭 组织管理 [PCL Community](https://github.com/PCL-Community) | Organizing and managing a Organization: [PCL Community](https://github.com/PCL-Community).
-- 🧱 为 [Enhanced Stonebricks](https://github.com/RS-WFB/Enhanced-Stonebricks) 模组提供灵感与美术支持 | Providing inspiration and artistic support for the mod: [Enhanced Stonebricks](https://github.com/RS-WFB/Enhanced-Stonebricks).
+- 🧱 为 [Enhanced Stonebricks](https://github.com/RS-WFB/Enhanced-Stonebricks) 模组提供灵感与美术支持 | Providing artistic support for the mod: [Enhanced Stonebricks](https://github.com/RS-WFB/Enhanced-Stonebricks).
 - 🛠 担任 [PCL2](https://github.com/Hex-Dragon/PCL2) 主仓库社区协管 | Being collaborator in [PCL2](https://github.com/Hex-Dragon/PCL2) repo.
 - ⚙ 对无汉化的小众模组进行汉化 | Carry out Chinese translation for mods without Chinese translation.
 - 🇫🇷 学习法语 | Apprendre le français.
