@@ -19,7 +19,7 @@
 - 📰 我是中文母语者，同时可以阅读英文、法文，但是后者可能无法做到流畅阅读。  
 *I'm a native Chinese speaker, and I can read both English and French, though I might not be fully fluent in reading French.*
 
-#### 现在正在做的事 What I'm doing right now?
+#### 现在正在做的事 Ongoing Tasks
 - ✏ 备战 2025 高考 | Preparing for the 2025 Gaokao.
 - 🖥 学习更多编程语言 | Learning more programming languages.
 - 🎭 组织管理 [PCL Community](https://github.com/PCL-Community) | Organizing and managing a Organization: [PCL Community](https://github.com/PCL-Community).
