@@ -37,7 +37,7 @@
   <!---相关链接--->
 [![image](https://img.shields.io/badge/-BiliBili-fb7299?style=for-the-badge)](https://space.bilibili.com/506713078 "跳转 Bilibili 个人主页")[![iamge](https://img.shields.io/badge/-AFDian-946ce6?style=for-the-badge)](https://afdian.net/a/Bailey_Z "跳转 爱发电创作者页面")[![image](https://img.shields.io/badge/-Twitter-1D9BF0?style=for-the-badge)](https://twitter.com/RbreezeQ "跳转 Twitter 个人资料")[![image](https://img.shields.io/badge/-Email-1074BE?style=for-the-badge)](mailto:sxcmxgst3319@hotmail.com "向我发送邮件")[![image](https://img.shields.io/badge/-Steam-171A21?style=for-the-badge)](https://steamcommunity.com/id/WForst_B "跳转 Steam 个人资料")[![image](https://img.shields.io/badge/-Wikipedia-f4f4f4?style=for-the-badge)](https://zh.wikipedia.org/wiki/User:WForstQing "跳转 Wikipedia 用户页")[![image](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge)](https://www.buymeacoffee.com/WForstB "跳转 Buy me a coffee 个人资料")  
   <!---访问次数统计--->
-**您是第** <img src="https://profile-counter.glitch.me/WForst_Breeze/count.svg?comment=哼啊啊啊啊啊啊啊啊啊啊啊啊" alt="icon" width="130px"> **位到访者**  
+**您是第** <img src="https://profile-counter.glitch.me/WForst_Breezee/count.svg?comment=哼啊啊啊啊啊啊啊啊啊啊啊啊" alt="icon" width="130px"> **位到访者**  
 </div>
 
   <!--弃用
