@@ -1,3 +1,13 @@
+<!--
+你好，欢迎来到 WForst Breeze 的个人主页！
+这个主页参考了 GitHub 原生的 profile 呈现形式，同时加了一些其他的内容来充实！
+事实上，这个主页并不华丽，但是或许已经可以呈现大部分的个人信息啦……
+
+如果你愿意的话，可以将这个文件作为你个人主页的模板来使用，如果和我说了我会去捧场！
+
+再一次，sincerely，祝您生活愉快。
+-->
+
 ## ✨ 我们与千万人擦肩而过，却在熙熙攘攘的人群中，独为彼此驻足回眸。
 ***We once passed by countless others, yet in the crowd, it was only for each other that we turned and looked back.***
   <!---README Stats--->
