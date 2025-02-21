@@ -8,8 +8,14 @@
 再一次，sincerely，祝您生活愉快。
 -->
 
-## ✨ 我们与千万人擦肩而过，却在熙熙攘攘的人群中，独为彼此驻足回眸。
-***We once passed by countless others, yet in the crowd, it was only for each other that we turned and looked back.***
+## ✨ 生如夏花之绚烂，死如秋叶之静美
+***Let life be beautiful like summer and death like autumn leaves.***
+
+<div align="right">
+
+*—— 泰戈尔 Rabindranath Tagore*
+</div>
+
   <!---README Stats--->
   <!---鬼知道为什么这破玩意老是坏，蒸的服辣！！--->
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=WForst-Breeze&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true" alt="WForst Breeze's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WForst-Breeze&layout=compact&theme=buefy&hide_border=true" /></a> |
