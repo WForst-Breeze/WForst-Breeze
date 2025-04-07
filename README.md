@@ -8,17 +8,17 @@
 再一次，sincerely，祝您生活愉快。
 -->
 
-## ✨ 生如夏花之绚烂，死如秋叶之静美
-***Let life be beautiful like summer and death like autumn leaves.***
+## ✨ 正是你为玫瑰付出的时间，才让她变得如此重要
+***C’est le temps que tu as perdu pour ta rose qui fait ta rose si importante.***
 
 <div align="right">
 
-*—— 泰戈尔 Rabindranath Tagore*
+*——圣埃克苏佩里 Antoine de Saint-Exupéry*
 </div>
 
 <div align="middle">
 
-_距离正式高考还剩 **不足 70 天**_
+_距离正式高考还剩 **不足 60 天**_
 </div>
 
   <!---README Stats--->
