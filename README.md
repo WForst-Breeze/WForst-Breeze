@@ -43,14 +43,17 @@ _距离正式高考还剩 **不足 60 天**，当前进度：**即将二模**_
 - 📰 我是中文母语者，同时可以阅读英文、法文，但是后者可能无法做到流畅阅读。  
 *I'm a native Chinese speaker, and I can read both English and French, though I might not be fully fluent in reading French.*
 
+- 🎨 头像是 @生生不淅 老师的 OC @白买蓝BuyBlue，画师已开放头像使用授权，感谢这位老师！  
+*Avatar by artist 生生不淅@白买蓝 BuyBlue, deeply appreciate to her!*
+
 #### 现在正在做的事 Ongoing Tasks
-- ✏ 备战 2025 高考 | Preparing for the 2025 Gaokao.
-- 🖥 学习更多编程语言 | Learning more programming languages.
-- 🎭 组织管理 [PCL Community](https://github.com/PCL-Community) | Organizing and managing a Organization: [PCL Community](https://github.com/PCL-Community).
-- 🧱 为 [Enhanced Stonebricks](https://github.com/RS-WFB/Enhanced-Stonebricks) 模组提供灵感与美术支持 | Providing artistic support for the mod: [Enhanced Stonebricks](https://github.com/RS-WFB/Enhanced-Stonebricks).
-- 🛠 担任 [PCL2](https://github.com/Hex-Dragon/PCL2) 主仓库社区协管 | Being collaborator in [PCL2](https://github.com/Hex-Dragon/PCL2) repo.
-- ⚙ 对无汉化的小众模组进行汉化 | Carry out Chinese translation for mods without Chinese translation.
-- 🇫🇷 学习法语 | Apprendre le français.
+- 备战 2025 高考 | Preparing for the 2025 Gaokao.
+- 学习更多编程语言 | Learning more programming languages.
+- 组织管理 [PCL Community](https://github.com/PCL-Community) | Organizing and managing a Organization: [PCL Community](https://github.com/PCL-Community).
+- 为 [Enhanced Stonebricks](https://github.com/RS-WFB/Enhanced-Stonebricks) 模组提供灵感与美术支持 | Providing artistic support for the mod: [Enhanced Stonebricks](https://github.com/RS-WFB/Enhanced-Stonebricks).
+- 担任 [PCL2](https://github.com/Hex-Dragon/PCL2) 主仓库社区协管 | Being collaborator in [PCL2](https://github.com/Hex-Dragon/PCL2) repo.
+- 对无汉化的小众模组进行汉化 | Carry out Chinese translation for mods without Chinese translation.
+- 学习法语 | Apprendre le français.
 
 ###### 祝您生活愉快 Have a nice day :)
   <!---自2023.1.12开始统计的页面访问数量--->
