@@ -32,12 +32,6 @@ _老子解放了啊哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈�
 - 💬 你好，别来无恙呀！我是 风释清然SC，你可以叫我 WFB、SC 等等你愿意的称呼！  
 *Hi there! I'm WForst-Breeze, you can simply call me WFB, SC, or whatever you like!*
 
-- 🌏 我是一名高三毕业生，来自中国东北，现居住于天津市！  
-*I'm a senior high school student from Northeastern China, currently living in Tianjin!*
-
-- 📚 我选修物化地，是个文科脑子硬学理科的悲惨高中生……  
-*My Gaokao subjects are Physics, Chemistry, and Geography. I’m good at liberal art subjects but now tragically studying science subjects…*
-
 - 🧝‍ 我的 MBTI 类型是 调停者 INFP-T，擅长观察人类并尽可能总结出人类恰当的社交方式。  
 *My MBTI type is Mediator (INFP-T). I'm here to observe human behavior so that I can summarize appropriate social interactions...*
 
