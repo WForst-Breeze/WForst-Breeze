@@ -48,7 +48,6 @@ _老子解放了啊哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈�
 *Avatar by artist 生生不淅@白买蓝 BuyBlue, deeply appreciate to her!*
 
 #### 现在正在做的事 Ongoing Tasks
-- 备战 2025 高考 | Preparing for the 2025 Gaokao.
 - 学习更多编程语言 | Learning more programming languages.
 - 组织管理 [PCL Community](https://github.com/PCL-Community) | Organizing and managing a Organization: [PCL Community](https://github.com/PCL-Community).
 - 为 [Enhanced Stonebricks](https://github.com/RS-WFB/Enhanced-Stonebricks) 模组提供灵感与美术支持 | Providing artistic support for the mod: [Enhanced Stonebricks](https://github.com/RS-WFB/Enhanced-Stonebricks).
