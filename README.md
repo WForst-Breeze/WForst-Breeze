@@ -16,12 +16,6 @@
 *——圣埃克苏佩里 Antoine de Saint-Exupéry*
 </div>
 
-<div align="middle">
-
-_老子解放了啊哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈_
-
-</div>
-
   <!---README Stats--->
   <!---鬼知道为什么这破玩意老是坏，蒸的服辣！！--->
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=WForst-Breeze&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true" alt="WForst Breeze's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WForst-Breeze&layout=compact&theme=buefy&hide_border=true" /></a> |
