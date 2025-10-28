@@ -23,7 +23,7 @@
 
 #### 介绍自己 Introduction
 
-- 💬 你好，别来无恙呀！我是 风释清然SC，你可以叫我 WFB、SC 等等你愿意的称呼！  
+- 💬 你好，别来无恙呀！我是 风释清然SC/虾米逃生计划，你可以叫我 WFB、SC、虾米 等等你愿意的称呼！  
 *Hi there! I'm WForst-Breeze, you can simply call me WFB, SC, or whatever you like!*
 
 - 🧝‍ 我的 MBTI 类型是 调停者 INFP-T，擅长观察人类并尽可能总结出人类恰当的社交方式。  
