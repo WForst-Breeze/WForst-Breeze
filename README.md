@@ -41,7 +41,7 @@
 #### 现在正在做的事 Ongoing Tasks
 - 学习更多编程语言 | Learning more programming languages.
 - 担任 [PCL2](https://github.com/Hex-Dragon/PCL2) 主仓库社区协管 | Being collaborator in [PCL2](https://github.com/Hex-Dragon/PCL2) repo.
-- 对无汉化的小众模组进行汉化 | Carry out Chinese translation for mods without Chinese translation.
+- 对无汉化的模组进行汉化 | Carry out Chinese translation for mods without Chinese translation. [LIST](Translated_Mods.md)
 - 学习法语 | Apprendre le français.
 
 ###### 祝您生活愉快 Have a nice day :)
