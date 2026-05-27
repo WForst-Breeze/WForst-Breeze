@@ -31,7 +31,7 @@
 - 📰 我是中文母语者，同时可以阅读英文、法文，但是后者可能无法做到流畅阅读。  
 *I'm a native Chinese speaker, and I can read both English and French, though I might not be fully fluent in reading French.*
 
-- 💾 是北京交通大学计算机科学与技术专业大一在读本科生，正在疯狂与微积分概率论大物斗智斗勇中……  
+- 💾 是北京交通大学计算机科学与技术铁路信息技术专业大一在读本科生，正在疯狂与微积分概率论大物斗智斗勇中……  
 *I'm a first-year undergraduate student majoring in Computer Science and Technology at Beijing Jiaotong University.*
 
 - 🎨 头像是 @生生不淅 老师的 OC @白买蓝BuyBlue，画师已开放头像使用授权，感谢这位老师！  
