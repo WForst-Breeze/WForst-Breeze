@@ -8,8 +8,8 @@
 再一次，sincerely，祝您生活愉快。
 -->
 
-## ✨ 正是你为玫瑰付出的时间，才让她变得如此重要
-***C’est le temps que tu as perdu pour ta rose qui fait ta rose si importante.***
+## ❤️ 让生活成为童话，让童话照进现实
+***Fais de ta vie un rêve, et d'un rêve, une réalité.***
 
 <div align="right">
 
